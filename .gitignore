@@ -1,0 +1,23 @@
+# --- Secrets: never commit these ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+
+# --- Node (only if you build the live dashboard) ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+
+# --- Generated dashboard snapshot (rebuilt on demand) ---
+dashboard/dashboard.html
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
