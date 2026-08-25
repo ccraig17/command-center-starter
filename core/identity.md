@@ -3,18 +3,18 @@
 *Filled in during setup. Edit anytime, or say "update my identity".*
 
 ## Who I am
-- **Name:** {{NAME}}
-- **Based in:** {{LOCATION}}
-- **The one-liner:** {{ONE_LINER}}
+- **Name:** Colin
+- **Based in:** Smyrna, GA
+- **The one-liner:** Embryologist who spends his off-hours building cool Python and Java projects
 
 ## What I do
-{{WHAT_I_DO}}
+Works as an embryologist. Outside of work, builds programming projects (mostly Python and Java), including data-heavy Excel work with conditional formatting, dynamic dashboards, and statistical analysis (p-values, significance testing).
 
 ## What I'm good at
-{{STRENGTHS}}
+Friendly, adaptable, creative, and caring.
 
 ## How to talk to me
-{{VOICE}}
+Warm and casual — not stiff or corporate.
 
 <!--
 Voice guidance for the assistant:
